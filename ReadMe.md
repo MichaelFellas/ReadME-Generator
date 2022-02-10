@@ -17,7 +17,6 @@
 | [11. Video Demo.](#video-demo)|
 | [12. Example ReadMe.](#example-readme)|
 | [13. Questions.](#questions)|
-|
 
 ## Description
 

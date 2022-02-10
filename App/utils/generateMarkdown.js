@@ -142,8 +142,7 @@ function generateMarkdown(title, licenseBadge, description, installation, usage,
   | [5. Contributing.](#contributing)|
   | [6. Tests.](#tests)|
   | [7. Questions.](#questions)|
-  |
-  
+    
   ## Description
   
   ${description}
