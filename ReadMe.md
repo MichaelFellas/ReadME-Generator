@@ -85,7 +85,7 @@ This project was tested in VCS terminal using the node function with many trials
 
 ## Questions
 
-### 9.2 Email
+### Email
 MichaelAriti94@gmail.com
 
 ### End
